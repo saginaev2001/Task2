@@ -1,0 +1,76 @@
+.person{color:red;}
+.red{color:red;
+font-size:2em;}
+.list{border:1px solid;
+border-color:red;
+border-radius:15;}
+.kok{font-size:2em;}
+.lol{font-size:2em;}
+
+
+
+
+a{padding-top:200%;}
+.zzz{border:5px solid;
+border-radius:10;
+background:green;
+font-size:2em;
+color:white;
+border-color:brown;
+font-family:monospace;
+text-decoration:none;
+margin:10px;
+padding:0 40px;}
+
+.xxx{border:5px solid;
+    border-radius:10;
+    background:green;
+    font-size:2em;
+    color:white;
+    border-color:brown;
+    font-family:monospace;
+    text-decoration:none;
+    padding:0 40px;
+    margin:10px;}
+
+.ccc{border:5px solid;
+    border-radius:10;
+    background:green;
+    font-size:2em;
+    color:white;
+    border-color:brown;
+    font-family:monospace;text-decoration:none;
+    padding:0 40px;
+    margin:10px;}
+
+
+.z1{color:green;}
+.z2{color:green;}
+.z3{color:green;}
+
+
+.item{display:flex;
+border:2px solid;
+border-color:red;
+border-radius:7px;
+margin:15px;}
+.shrift{font-size:2em;}
+.description{font-size:125%;}
+.text_for{font-weight:bold;
+margin-left:180px;}
+.price{color:red;
+margin-left:0px;
+background-color:pink;
+font-size:150%;}
+.city{font-weight:bold;}
+.item_urgent{background-color:yellow;display:flex;
+                                     border:2px solid;
+                                     border-color:red;
+                                     border-radius:7px;
+                                     margin:15px;}
+.image{padding:20px;}
+
+
+
+
+
